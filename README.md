@@ -53,7 +53,7 @@
           entre la definición de este también se nos explica que tiene la capacidad de bloquear 
           la pantalla o cifrar archivos de importancia con una contraseña.</p> </center>
 
-          <center> <p> Otro tema visto en clase fue el como crear una base de datos mediante las herramientas de Oracle y como crearlo desde el CMD, como istalarlo y como crear una base de datos desde la aplicacion predeterminada. </p> </center>
+          <center> <p> Otro tema visto en clase fue el como crear una base de datos mediante las herramientas de Oracle y como crearlo            desde el CMD, como istalarlo y como crear una base de datos desde la aplicacion predeterminada. </p> </center>
 
 
           <center> <a> https://angellblash.blogspot.com/2021/03/preguntas-tarea-laboratorio-angel.html </a> </center>
